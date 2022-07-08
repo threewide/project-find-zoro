@@ -3,11 +3,12 @@
 ## Description
 
 For the 01-Module project we were given a website for Horiseon Social Solution Services and had the task of making it more accesible.
-The given website was mostly functional but had much room for improvement. And despite my best efforts I'm sure it still has ways for improvement.
+The given website was mostly functional but had much room for improvement. Despite my best efforts, I'm sure it still has ways to be improved.
 To refactor the codde and make it more accessible I changed out many div tags with appropriate html tags like nav, header, footer and section. 
-Another way to refactor code was to consolidate the selectors in the css sstyle sheet. This was where I learned the most how much redundancy can occur, and I still feel there is much to learn.
+A method used to refactor the code was to consolidate the selectors in the css sstyle sheet. 
 Adding alt attributes for the images is another way to make the site more accesible.
 While looking through the site I noticed the Search Engine Optimization link was not working so fixed it.
+I changed the many div tags to html semantic tags
 
 ## Table of Contents
 
